@@ -1,1 +1,1 @@
-# Let deat with data at the backend
+# Let deal with data at the backend
